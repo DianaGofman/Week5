@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\bin\Debug\net6.0\Week5Operators.exe
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\bin\Debug\net6.0\Week5Operators.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\bin\Debug\net6.0\Week5Operators.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\bin\Debug\net6.0\Week5Operators.dll
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\bin\Debug\net6.0\Week5Operators.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.dll
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\refint\Week5Operators.dll
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\Week5Operators.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week5Operators\Week5Operators\obj\Debug\net6.0\ref\Week5Operators.dll
